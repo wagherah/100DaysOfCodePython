@@ -1,0 +1,15 @@
+{
+    "configurations": [
+      {
+      "name": "hello",
+      "type": "python",
+      "environment": {
+        "PYTHONUNBUFFERED": "1",
+      },
+      "file": "D:\\Dev\\PycharmProjects\\100DaysOfCodePython\\Day35\\hello.py",
+      "arguments": [],
+    },
+
+      
+    ]
+}
